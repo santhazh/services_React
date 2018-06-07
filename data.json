@@ -1,0 +1,220 @@
+{
+  "resourceID": 100001.0,
+  "firstName": "Ankit",
+  "lastName": "Bhatt",
+  "fullName": "Bhatt, Ankit",
+  "alias": "abhatt",
+  "requiredSkillCount": 5,
+  "resourceSkills": [
+    {
+      "resourceID": 100001.0,
+      "skillID": 446,
+      "skillName": "Deployment",
+      "skillPath": "Functional > Business Productivity > Collaboration > Add-Ins",
+      "proficiencyLevel": 2,
+      "dueBy": "2016-09-23T20:43:49.9732346+05:30",
+      "requiredProficiencyLevel": 3,
+      "selectedActivityCount": 1,
+      "suggestedActivities": [
+        {
+          "suggestedActivityID": 101,
+          "suggestedActivityName": "The Social Intranet: Integrate Yammer into your Microsoft SharePoint Experience  ",
+          "isAddedToPlan": false,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget.. ",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Lindsay Gardner",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        },
+        {
+          "suggestedActivityID": 102,
+          "suggestedActivityName": "Volvo cars uses SharePoint Add-ins to improve efficiency and agility of its intranet",
+          "isAddedToPlan": false,
+          "description": "Volvo Cars used farm solutions to create its own business applications, which could not be run on Microsoft SharePoint Online. To increase the functionality of its business applications, the Volvo development team retired its farm solutions and migrated their custom farm solutions to SharePoint Add-ins with service-oriented architecture. With guidance from the Office 365 Developer Patterns and Practices initiative, Volvo Cars has experienced an increase in the ease and efficiency of business application deployment",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Harald Wentein",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        },
+        {
+          "suggestedActivityID": 103,
+          "suggestedActivityName": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum ",
+          "isAddedToPlan": true,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget.. ",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Lindsay Gardner",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        }
+      ]
+    },
+    {
+      "resourceID": 100001.0,
+      "skillID": 491,
+      "skillName": "Enablement",
+      "skillPath": "Functional > Business Productivity > Collaboration > Add-Ins",
+      "proficiencyLevel": 2,
+      "dueBy": "2016-09-23T20:43:49.9732346+05:30",
+      "requiredProficiencyLevel": 3,
+      "selectedActivityCount": 1,
+      "suggestedActivities": [
+        {
+          "suggestedActivityID": 101,
+          "suggestedActivityName": "The Social Intranet: Integrate Yammer into your Microsoft SharePoint Experience  ",
+          "isAddedToPlan": false,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget.. ",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Lindsay Gardner",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        },
+        {
+          "suggestedActivityID": 102,
+          "suggestedActivityName": "Volvo cars uses SharePoint Add-ins to improve efficiency and agility of its intranet",
+          "isAddedToPlan": false,
+          "description": "Volvo Cars used farm solutions to create its own business applications, which could not be run on Microsoft SharePoint Online. To increase the functionality of its business applications, the Volvo development team retired its farm solutions and migrated their custom farm solutions to SharePoint Add-ins with service-oriented architecture. With guidance from the Office 365 Developer Patterns and Practices initiative, Volvo Cars has experienced an increase in the ease and efficiency of business application deployment",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Harald Wentein",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        },
+        {
+          "suggestedActivityID": 103,
+          "suggestedActivityName": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum ",
+          "isAddedToPlan": true,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget.. ",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Lindsay Gardner",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        }
+      ]
+    },
+    {
+      "resourceID": 100001.0,
+      "skillID": 522,
+      "skillName": "Full Trust Code (FTC) Solutions",
+      "skillPath": "Functional > Business Productivity > Collaboration > Add-Ins",
+      "proficiencyLevel": 2,
+      "dueBy": "2016-09-23T20:43:49.9732346+05:30",
+      "requiredProficiencyLevel": 3,
+      "selectedActivityCount": 1,
+      "suggestedActivities": [
+        {
+          "suggestedActivityID": 101,
+          "suggestedActivityName": "The Social Intranet: Integrate Yammer into your Microsoft SharePoint Experience  ",
+          "isAddedToPlan": false,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget.. ",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Lindsay Gardner",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        },
+        {
+          "suggestedActivityID": 102,
+          "suggestedActivityName": "Volvo cars uses SharePoint Add-ins to improve efficiency and agility of its intranet",
+          "isAddedToPlan": false,
+          "description": "Volvo Cars used farm solutions to create its own business applications, which could not be run on Microsoft SharePoint Online. To increase the functionality of its business applications, the Volvo development team retired its farm solutions and migrated their custom farm solutions to SharePoint Add-ins with service-oriented architecture. With guidance from the Office 365 Developer Patterns and Practices initiative, Volvo Cars has experienced an increase in the ease and efficiency of business application deployment",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Harald Wentein",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        },
+        {
+          "suggestedActivityID": 103,
+          "suggestedActivityName": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum ",
+          "isAddedToPlan": true,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget.. ",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Lindsay Gardner",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        }
+      ]
+    },
+    {
+      "resourceID": 100001.0,
+      "skillID": 646,
+      "skillName": "On-premises",
+      "skillPath": "Functional > Business Productivity > Collaboration > Add-Ins",
+      "proficiencyLevel": 2,
+      "dueBy": "2016-09-23T20:43:49.9732346+05:30",
+      "requiredProficiencyLevel": 3,
+      "selectedActivityCount": 1,
+      "suggestedActivities": [
+        {
+          "suggestedActivityID": 101,
+          "suggestedActivityName": "The Social Intranet: Integrate Yammer into your Microsoft SharePoint Experience  ",
+          "isAddedToPlan": false,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget.. ",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Lindsay Gardner",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        },
+        {
+          "suggestedActivityID": 102,
+          "suggestedActivityName": "Volvo cars uses SharePoint Add-ins to improve efficiency and agility of its intranet",
+          "isAddedToPlan": false,
+          "description": "Volvo Cars used farm solutions to create its own business applications, which could not be run on Microsoft SharePoint Online. To increase the functionality of its business applications, the Volvo development team retired its farm solutions and migrated their custom farm solutions to SharePoint Add-ins with service-oriented architecture. With guidance from the Office 365 Developer Patterns and Practices initiative, Volvo Cars has experienced an increase in the ease and efficiency of business application deployment",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Harald Wentein",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        },
+        {
+          "suggestedActivityID": 103,
+          "suggestedActivityName": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum ",
+          "isAddedToPlan": true,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget.. ",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Lindsay Gardner",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        }
+      ]
+    },
+    {
+      "resourceID": 100001.0,
+      "skillID": 737,
+      "skillName": "Provider Hosted",
+      "skillPath": "Functional > Business Productivity > Collaboration > Add-Ins",
+      "proficiencyLevel": 2,
+      "dueBy": "2016-09-23T20:43:49.9732346+05:30",
+      "requiredProficiencyLevel": 3,
+      "selectedActivityCount": 1,
+      "suggestedActivities": [
+        {
+          "suggestedActivityID": 101,
+          "suggestedActivityName": "The Social Intranet: Integrate Yammer into your Microsoft SharePoint Experience  ",
+          "isAddedToPlan": false,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget.. ",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Lindsay Gardner",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        },
+        {
+          "suggestedActivityID": 102,
+          "suggestedActivityName": "Volvo cars uses SharePoint Add-ins to improve efficiency and agility of its intranet",
+          "isAddedToPlan": false,
+          "description": "Volvo Cars used farm solutions to create its own business applications, which could not be run on Microsoft SharePoint Online. To increase the functionality of its business applications, the Volvo development team retired its farm solutions and migrated their custom farm solutions to SharePoint Add-ins with service-oriented architecture. With guidance from the Office 365 Developer Patterns and Practices initiative, Volvo Cars has experienced an increase in the ease and efficiency of business application deployment",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Harald Wentein",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        },
+        {
+          "suggestedActivityID": 103,
+          "suggestedActivityName": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum ",
+          "isAddedToPlan": true,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget.. ",
+          "date": "2016-09-23T20:43:49.9732346+05:30",
+          "owner": "Lindsay Gardner",
+          "proficiencyLevelOnCompletion": 1,
+          "format": "Document"
+        }
+      ]
+    }
+  ]
+}

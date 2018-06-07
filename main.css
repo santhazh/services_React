@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(to right, pink, white);
+}
+
+.profiles {
+    position: relative;
+    right:100px;
+}
+.kill {
+    position: absolute;
+    left:10px;
+}
+
+
+.c1 {
+    position: relative;
+top: 100px; 
+}
+
+
+.h1,.h2, .h3, .h4 {
+    
+border-top: dotted 1px;
+}
+
+
+.h5{
+    
+width: 100%; color: black; height: 1px; background-color:black;
+    
+}   
+
+.vl {
+    border-left: 40px solid green;
+    height: 25px;
+    left:100px;
+    position: relative;
+    top: -45px;
+    }

@@ -1,15 +1,37 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Provider } from 'react-redux';
-import { createStore, applyMiddleware } from 'redux';
 
-import App from './components/app';
-import reducers from './reducers';
+import { Profile , Details } from './components/details_tab';
 
-const createStoreWithMiddleware = applyMiddleware()(createStore);
+import Skills  from './components/skills';
+import Chartone  from './components/chart_one';
+import Charttwo  from './components/chart_one';
+import Chartthree  from './components/chart_one';
+import Chartfour  from './components/chart_one';
+import Chartfive  from './components/chart_one';
 
-ReactDOM.render(
-  <Provider store={createStoreWithMiddleware(reducers)}>
-    <App />
-  </Provider>
-  , document.querySelector('.container'));
+
+
+
+
+
+
+
+const App = () => {
+    
+    return (
+        <div >
+        <Profile />
+    <Details />
+    <Skills />
+        <div className="container-fluid">
+
+    <div className="col-sm-3"><Chartone /></div>
+  
+        </div>
+    </div>
+           );
+    
+}
+
+ReactDOM.render(<App/>, document.querySelector('.container'));
