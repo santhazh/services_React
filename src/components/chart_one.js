@@ -22,7 +22,7 @@ class Chartone extends React.Component {
 
       <div className="c1">
         {(this.state.persons && this.state.persons.resourceSkills && this.state.persons.resourceSkills.length > 0) ?
-          this.state.persons.resourceSkills[0].skillName
+          this.state.persons.resourceSkills.map(x => <div>{x.skillName}</div>)
           : ''
         }
       </div>
